@@ -1,0 +1,6 @@
+DATA_PATH = "/Workspace/Repos/dev/mlops/data/bank_churn.csv"
+MODEL_NAME = "workspace.default.bank_churn_model"
+FEATURE_TABLE = "bank_churn.features"
+RAW_TABLE = "bank_churn.raw"
+PRED_TABLE = "bank_churn.predictions"
+EXPERIMENT_NAME = "/Shared/mlops/bank_churn"
